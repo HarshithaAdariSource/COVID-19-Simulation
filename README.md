@@ -1,7 +1,5 @@
 # COVID-19 Simulation Project
 
-## COVID-19 Spread Simulation
-
 ## Project Overview
 
 This project is a simple simulation of how COVID-19 spreads in a small population. The main idea is to show how the virus transmits from person to person based on contact and how factors like recovery and isolation affect the spread. This project was created for learning and academic purposes to understand the basic concepts of disease modelling and simulation.
