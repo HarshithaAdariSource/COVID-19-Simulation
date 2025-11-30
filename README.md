@@ -1,8 +1,6 @@
 # COVID-19 Simulation Project
 
-## Project Title
-
-COVID-19 Spread Simulation
+## COVID-19 Spread Simulation
 
 ## Project Overview
 
